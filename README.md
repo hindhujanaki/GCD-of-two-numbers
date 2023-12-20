@@ -35,6 +35,8 @@ def gcd():
 ```
 
 
+
+
 ## Output:
 ![Screenshot 2023-12-20 215538](https://github.com/hindhujanaki/GCD-of-two-numbers/assets/148514666/432b733f-3fea-4fad-a5b8-70892ea0851b)
 ## Result:
